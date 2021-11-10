@@ -10,9 +10,9 @@ import org.junit.Test;
 public class AppTest 
 {
     /**
-     * Rigorous Test :-)
+     * Rigorasasaous Test :-)
      */
-    @Test
+    @Testasdss
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
